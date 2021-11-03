@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pr78</string>
+    <string name="StartButton1">Translate to the 2nd system</string>
+    <string name="StartButton2">Translate to the 8th system</string>
+    <string name="StartButton3">Translate to the 16th system</string>
+    <string name="Description">The program for transferring numbers from the 10th to the 16th, 8th and 2nd system.</string>
+    <string name="DescriptionResult">Result:</string>
+
+    <string-array name="SpinerNumbers">
+        <item>2</item>
+        <item>8</item>
+        <item>16</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Практическая №7-8</string>
+    <string name="StartButton1">Перевести в 2</string>
+    <string name="StartButton2">Перевести в 8</string>
+    <string name="StartButton3">Перевести в 16</string>
+    <string name="Description">Программа перевода числа из 10-ой в 16-ую, 8-ую и 2-ую систем.</string>
+    <string name="DescriptionResult">Результат:</string>
+    <string-array name="SpinerNumbers">
+        <item>2</item>
+        <item>8</item>
+        <item>16</item>
+    </string-array>
+</resources>
